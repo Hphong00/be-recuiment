@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="122cf2b4-64fe-41fd-a769-6055d5500fde" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Files-Upload/0PyPYMQG-2022.05.23-BALANCE-CONFIRMATION-0144414145-DO-THU-NGUYET.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Files-Upload/2EfGj00A-ITSOL recruitment.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Files-Upload/AS57kUMW-2022.05.23-BALANCE-CONFIRMATION-0144414145-DO-THU-NGUYET.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Files-Upload/G5b6McQl-imagesloaded.pkgd.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Files-Upload/K2fRLe4L-2022.05.23-BALANCE-CONFIRMATION-0144414145-DO-THU-NGUYET.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Files-Upload/Z9gsMjtt-contact.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Files-Upload/d5Prg7bi-sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Files-Upload/pniu2fI9-bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Files-Upload/vDgXpFcN-gijgo.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Files-Upload/vokKh3mN-ITSOL recruitment.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Files-Upload/xUDIfoHY-2022.05.23-BALANCE-CONFIRMATION-0144414145-DO-THU-NGUYET.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Files-Upload/ydi8lnax-NHOM3.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Files-Upload/zWEvDv6B-contact.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Files-Upload/zZeoX7a3-NHOM3.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Files-Upload/zhEMZVNg-sql_assignment.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/itsol/recruit/repository/repoimpl/UserRepositoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/itsol/recruit/repository/repoimpl/UserRepositoryImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/itsol/recruit/security/SetupDataLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/itsol/recruit/security/SetupDataLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/itsol/recruit/web/publicCtl/UserPublicController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/itsol/recruit/web/publicCtl/UserPublicController.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/pom.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/itsol/recruit/entity/User.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/resources/application.properties" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/resources/application.yml" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2CDIDHkVkYWVR8h0D4qfUvfQc20" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/ADMIN/Downloads/ITSOL/Recuiment-Itsol/BE_Recuiment",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "spring.configuration.checksum": "1f516e39f1baab6741d67bbf6028644f"
+  }
+}]]></component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.RecruitApplication (1)">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itsol.recruit.dto.Main" />
+      <module name="BE_Recuiment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itsol.recruit.dto.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecruitApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="BE_Recuiment" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itsol.recruit.RecruitApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecruitApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="recruit" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itsol.recruit.RecruitApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="122cf2b4-64fe-41fd-a769-6055d5500fde" name="Changes" comment="" />
+      <created>1658363808237</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658363808237</updated>
+      <workItem from="1658363822286" duration="7682000" />
+      <workItem from="1658473864366" duration="30000" />
+      <workItem from="1660812696455" duration="61000" />
+      <workItem from="1660812770795" duration="1078000" />
+      <workItem from="1661222580788" duration="105000" />
+      <workItem from="1661242695652" duration="1136000" />
+      <workItem from="1661743061009" duration="858000" />
+      <workItem from="1661866909828" duration="2981000" />
+      <workItem from="1662046262286" duration="296000" />
+      <workItem from="1662046671982" duration="12000" />
+      <workItem from="1662344987704" duration="494000" />
+      <workItem from="1662346389124" duration="1822000" />
+      <workItem from="1662371189910" duration="830000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="com.itsol.recruit.service.email.EmailService" memberName="mailSender" />
+        <PinnedItemInfo parentTag="com.itsol.recruit.web.publicCtl.UserPublicController" memberName="imageService" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>
